@@ -1,0 +1,27 @@
+[package]
+name = "rust-reassign-or-mutate"
+description = "A comparison between reassignment and mutation in rust"
+version = "0.1.0"
+authors = ["Cameron Manavian <cameron.manavian@gmail.com>"]
+
+[[bin]]
+name = "clone_bikes"
+path = "src/clone_bikes.rs"
+
+[[bin]]
+name = "mutate_bikes"
+path = "src/mutate_bikes.rs"
+
+[[bin]]
+name = "clone_cars"
+path = "src/clone_cars.rs"
+
+[[bin]]
+name = "copy_cars"
+path = "src/copy_cars.rs"
+
+[[bin]]
+name = "mutate_cars"
+path = "src/mutate_cars.rs"
+
+[dependencies]
