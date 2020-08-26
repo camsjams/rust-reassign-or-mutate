@@ -4,7 +4,7 @@ A comparison between reassignment and mutation in Rust
 ![Image of rusty stairs into water](img/pexels-mike-282005.jpg)
 
 ## Version
-See [Cargo.toml] version
+See [Cargo.toml](Cargo.toml) version
 
 ## Platforms / Technologies
 * [Rust](https://www.rust-lang.org/en-US/)
